@@ -47,7 +47,7 @@ tbquire.config({
 		'sortablejs'    : ['//cdn.jsdelivr.net/npm/sortablejs@1.10.2/Sortable.min','libs/Sortable.min'],
 		'html2canvas'   : ['//cdn.jsdelivr.net/npm/html2canvas@1.0.0-alpha.12/dist/html2canvas.min','libs/html2canvas.min'],
 		'qrcode'        : ['//cdn.jsdelivr.net/npm/jquery-qrcode@1.0.0/jquery.qrcode.min','libs/jquery.qrcode.min'],
-		'imgbox'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/imgbox'
+		'imgbox'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/imgbox',
 		'enlighterjs'   : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/enlighter/enlighterjs.min',
 		'section_navs'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/section_navs',
 		'main'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/main',
