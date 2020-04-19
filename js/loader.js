@@ -39,7 +39,7 @@ tbquire.config({
 	baseUrl: _win.uri + '/js',
 	urlArgs: 'ver=' + _win.ver,
 	paths: {
-		'jquery.cookie' : ['//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/libs/jquery.cookie.min','libs/jquery.cookie.min'],
+		'jquery.cookie' : ['//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/libs/jquery.cookie.min','libs/jquery.cookie.min'],
 		'lazysizes'     : ['//cdn.jsdelivr.net/gh/aFarkas/lazysizes/lazysizes.min','libs/lazysizes.min'],
 		'ias'           : ['//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/libs/ias.min','libs/ias.min'],
 		'clipboard'     : ['//cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min','libs/clipboard.min'],
@@ -47,19 +47,19 @@ tbquire.config({
 		'sortablejs'    : ['//cdn.jsdelivr.net/npm/sortablejs@1.10.2/Sortable.min','libs/Sortable.min'],
 		'html2canvas'   : ['//cdn.jsdelivr.net/npm/html2canvas@1.0.0-alpha.12/dist/html2canvas.min','libs/html2canvas.min'],
 		'qrcode'        : ['//cdn.jsdelivr.net/npm/jquery-qrcode@1.0.0/jquery.qrcode.min','libs/jquery.qrcode.min'],
-		'imgbox'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/imgbox',
-		'enlighterjs'   : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/enlighter/enlighterjs.min',
-		'section_navs'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/section_navs',
-		'main'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/main',
-		'sign-register' : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/sign-register',
-		'comment'       : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/comment',
-		'user'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/user',
-		'author'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/author',
-		'navs'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/navs',
-		'newposts'      : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/newposts',
-		'poster-share'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/poster-share',
-		'mini-touch'    : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/mini-touch',
-		'svg-icon'      : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/svg-icon'
+		'imgbox'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/imgbox',
+		'enlighterjs'   : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/enlighter/enlighterjs.min',
+		'section_navs'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/section_navs',
+		'main'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/main',
+		'sign-register' : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/sign-register',
+		'comment'       : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/comment',
+		'user'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/user',
+		'author'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/author',
+		'navs'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/navs',
+		'newposts'      : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/newposts',
+		'poster-share'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/poster-share',
+		'mini-touch'    : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/mini-touch',
+		'svg-icon'      : '//cdn.jsdelivr.net/gh/aidai99/shurouwang/js/svg-icon'
 	}
 })
 
