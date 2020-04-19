@@ -47,19 +47,19 @@ tbquire.config({
 		'sortablejs'    : ['//cdn.jsdelivr.net/npm/sortablejs@1.10.2/Sortable.min','libs/Sortable.min'],
 		'html2canvas'   : ['//cdn.jsdelivr.net/npm/html2canvas@1.0.0-alpha.12/dist/html2canvas.min','libs/html2canvas.min'],
 		'qrcode'        : ['//cdn.jsdelivr.net/npm/jquery-qrcode@1.0.0/jquery.qrcode.min','libs/jquery.qrcode.min'],
-		'imgbox'        : 'imgbox',
-		'enlighterjs'   : 'enlighter/enlighterjs.min',
-		'section_navs'  : 'section_navs',
-		'main'          : 'main',
-		'sign-register' : 'sign-register',
-		'comment'       : 'comment',
-		'user'          : 'user',
-		'author'        : 'author',
-		'navs'          : 'navs',
-		'newposts'      : 'newposts',
-		'poster-share'  : 'poster-share',
-		'mini-touch'    : 'mini-touch',
-		'svg-icon'      : 'svg-icon'
+		'imgbox'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/imgbox'
+		'enlighterjs'   : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/enlighter/enlighterjs.min',
+		'section_navs'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/section_navs',
+		'main'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/main',
+		'sign-register' : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/sign-register',
+		'comment'       : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/comment',
+		'user'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/user',
+		'author'        : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/author',
+		'navs'          : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/navs',
+		'newposts'      : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/newposts',
+		'poster-share'  : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/poster-share',
+		'mini-touch'    : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/mini-touch',
+		'svg-icon'      : '//cdn.jsdelivr.net/gh/aidai99/shurouwang@1.0/js/svg-icon'
 	}
 })
 
